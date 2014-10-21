@@ -53,6 +53,7 @@
 			"name": "Sign",
 			"details": "https://github.com/fnkr/ST-Sign",
 			"issues": "https://ge1.me/sublimetext-sign-issues",
+			"previous_names": ["Signatori"],
 			"releases": [
 				{
 					"sublime_text": "*",
